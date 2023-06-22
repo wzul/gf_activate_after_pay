@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: GravityForms Activate User After Payment
+ * Plugin Name: Gravity Forms Activate User After Payment
  * Description: Prototype
  * Version: 1.0.0
  * Author: Wan Zulkarnain
