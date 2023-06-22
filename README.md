@@ -1,3 +1,5 @@
+# DO NOT USE THIS PLUGIN. THIS FEATURE HAS BEEN INTEGRATED DIRECTLY IN CHIP FOR GRAVITYFORMS
+
 # Gravity Forms Activate User After Payment
 
 This plugin will make a user automatically activated upon successful payment.
