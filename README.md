@@ -11,6 +11,12 @@ This is an experimental plugin!
 * Select **Upload Plugin**, choose zip file you downloaded in step 1 and press **Install Now**
 * Activate plugin
 
+## Requirements
+
+1. [Gravity Forms](https://gravityforms.com/)
+1. [Gravity Forms User Registration Add-On](https://www.gravityforms.com/add-ons/user-registration/)
+1. [CHIP for GravityForms plugin](https://wordpress.org/plugins/chip-for-gravity-forms/)
+
 ## Configuration
 
 1. Enable user activation.
